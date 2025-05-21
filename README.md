@@ -8,7 +8,7 @@ consuming, subjective, and error-prone, often requiring expert radiologists. The
 for an automated, accurate, and efficient solution to detect and segment brain tumors in MRI 
 images using computer vision and deep learning techniques.
 
-## Scope of the Project 
+### Scope of the Project 
 ---
  The system will classify MRI images into two classes: Tumor and No Tumor. 
  It focuses on binary classification, not segmentation of tumor size or type. 
@@ -16,9 +16,9 @@ images using computer vision and deep learning techniques.
  Can be extended to multi-class classification or full segmentation using 3D models in 
 future. 
 
-## Tools and Technologies Used 
+### Tools and Technologies Used 
 ---
-## Category Tools/Technologies 
+### Category Tools/Technologies 
 ---
 Programming Python 
 Libraries OpenCV, NumPy, PIL, Matplotlib, scikit-learn 
@@ -41,7 +41,7 @@ o Binary classification using sigmoid activation.
 o Metrics: Accuracy, loss, and visual inspection. 
 5. Model Saving
 
-## Future Enhancements 
+### Future Enhancements 
 ---
  Use 3D U-Net for tumor segmentation rather than classification. 
  Incorporate transfer learning with pre-trained models like VGG16 or ResNet. 
