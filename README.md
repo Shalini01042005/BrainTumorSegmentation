@@ -40,4 +40,4 @@ future.
 2. Incorporate transfer learning with pre-trained models like VGG16 or ResNet. 
 3. Create a web-based diagnostic tool for real-time predictions. 
 4. Extend to multi-class classification (glioma, meningioma, pituitary).
-5. ---
+---
