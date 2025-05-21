@@ -41,3 +41,9 @@ future.
 3. Create a web-based diagnostic tool for real-time predictions. 
 4. Extend to multi-class classification (glioma, meningioma, pituitary).
 ---
+### Conclusion
+
+This project demonstrates how computer vision and CNN can effectively classify 
+brain MRI images to detect tumors. The trained model provides accurate and automated 
+tumor detection, helping to support faster medical diagnosis. This approach can be further 
+improved and expanded for better healthcare applications. 
