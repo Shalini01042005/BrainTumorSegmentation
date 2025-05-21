@@ -32,7 +32,7 @@ future.
 1. Data Collection : Labeled brain MRI images (yes for tumor, no for no tumor). 
 2. Data Preprocessing : Image resizing, normalization, noise removal. 
 3. Model Building (CNN) Layers: Convolution → ReLU → MaxPooling → Dense → Dropout. 
-4. Model Training & Evaluation : Binary classification using sigmoid activation. 
+4. Model Training & Evaluation : Binary classification using sigmoid activation.
 ---
 ### Future Enhancements 
 
