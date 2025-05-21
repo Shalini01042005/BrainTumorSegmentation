@@ -1,24 +1,24 @@
 # BRAIN TUMOUR SEGMENTATION USING COMPUTER VISION 
  
-## Problem Statement 
----
+##Problem Statement 
+
 Brain tumors are one of the most life-threatening diseases worldwide, and early 
 diagnosis plays a crucial role in successful treatment. Manual diagnosis of MRI scans is time
 consuming, subjective, and error-prone, often requiring expert radiologists. There is a need 
 for an automated, accurate, and efficient solution to detect and segment brain tumors in MRI 
 images using computer vision and deep learning techniques.
----
-###Scope of the Project 
+
+#Scope of the Project 
 ---
  The system will classify MRI images into two classes: Tumor and No Tumor. 
  It focuses on binary classification, not segmentation of tumor size or type. 
  Works with 2D image slices (RGB format) resized to fixed dimensions. 
  Can be extended to multi-class classification or full segmentation using 3D models in 
 future. 
+
+#Tools and Technologies Used 
 ---
-###Tools and Technologies Used 
----
-#####Category Tools/Technologies 
+#Category Tools/Technologies 
 ---
 Programming Python 
 Libraries OpenCV, NumPy, PIL, Matplotlib, scikit-learn 
@@ -27,7 +27,7 @@ Model Type Convolutional Neural Network (CNN)
 Data Handling Train-test split using sklearn 
 Visualization Matplotlib 
 Deployment (optional) Streamlit / Flask 
----
+
 ###Modules of the Project 
 ---
 1. Data Collection 
